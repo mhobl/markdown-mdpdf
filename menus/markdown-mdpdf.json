@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert to PDF",
+        "command": "markdown-mdpdf:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Markdown MDPDF Converter",
+          "submenu": [
+            {
+              "label": "Convert to PDF",
+              "command": "markdown-mdpdf:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

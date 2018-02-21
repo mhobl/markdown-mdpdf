@@ -1,0 +1,20 @@
+{
+  "name": "markdown-mdpdf",
+  "main": "./lib/markdown-mdpdf",
+  "version": "1.0.0",
+  "description": "Convert markdown to PDF with MDPDF",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "markdown-mdpdf:convert"
+  },
+  "repository": "https://github.com/mhobl/markdown-mdpdf",
+  "license": "MIT",
+  "author": "Markus Hobl",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "mdpdf": "^1.5.1"
+  }
+}
