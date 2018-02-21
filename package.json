@@ -1,7 +1,7 @@
 {
   "name": "markdown-mdpdf",
   "main": "./lib/markdown-mdpdf",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Convert markdown to PDF with MDPDF",
   "keywords": [],
   "activationCommands": {
